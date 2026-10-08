@@ -8,8 +8,6 @@
 | **Environment** | Swift 6 toolchain for Windows (official swift.org toolchain), run from the command line with `swift <file>.swift` in Visual Studio Code |
 
 
-## Files
-
 | File | Content |
 |---|---|
 | `Exercise01.swift` | Constants and variables, Activity 1 |

@@ -3,17 +3,10 @@
 **Module:** SE4041 – Mobile Application Design & Development
 **Year 04 Semester 02 – 2026**
 
-| | |
-|---|---|
 | **Student Name** | Abisheak S |
 | **Student ID** | IT21244384 |
 | **Environment** | Swift 6 toolchain for Windows (official swift.org toolchain), run from the command line with `swift <file>.swift` in Visual Studio Code |
 
-> Note on environment: the lab sheet suggests an Xcode Playground or Swift Playgrounds. This work was completed on Windows using the official Swift toolchain, which runs the same Swift code. Each exercise file is a standalone script, so each runs independently.
-
-## Lab Sheet Summary
-
-This practical covers constants and variables (`let` / `var`), Swift data types, type inference and type safety, explicit type conversion, arithmetic / comparison / logical operators, strings and string interpolation, and optionals (`if let`, force unwrapping, and the nil-coalescing operator `??`). It ends with the **Student Result Analyzer** final task.
 
 ## Files
 
@@ -28,12 +21,6 @@ This practical covers constants and variables (`let` / `var`), Swift data types,
 | `FinalChallenge.swift` | Student Result Analyzer (with and without email) + Additional Challenge |
 | `screenshots/` | Output evidence |
 
-## How to Run
-
-```bash
-swift Exercise01.swift
-swift FinalChallenge.swift
-```
 
 ## My Practical Evidence
 

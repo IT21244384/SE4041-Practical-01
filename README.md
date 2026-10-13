@@ -5,7 +5,7 @@
 
 | **Student Name** | Abisheak S |
 | **Student ID** | IT21244384 |
-| **Environment** | Swift 6 toolchain for Windows (official swift.org toolchain), run from the command line with `swift <file>.swift` in Visual Studio Code |
+| **Environment** | Swift 6 toolchain for Windows (official swift.org toolchain), compiled with `swiftc` and run from PowerShell, code edited in Visual Studio Code |
 
 
 | File | Content |
